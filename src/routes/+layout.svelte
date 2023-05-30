@@ -16,6 +16,10 @@
             title: "Контакты",
             href: "/contact",
         },
+        {
+            title: "temp",
+            href: "/temp",
+        },
     ];
 </script>
 
